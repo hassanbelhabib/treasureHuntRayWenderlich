@@ -7,3 +7,4 @@
 @property (nonatomic, strong) UIImage *photo;
 
 @end
+
